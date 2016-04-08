@@ -1,0 +1,9 @@
+{
+  "dashboard.title": "Dashboard",
+  "dashboard.widgets.casesByQueue.title": "Order by Queue Child",
+  "dashboard.widgets.casesByQueue.description": "Displays orders by queue",
+  "dashboard.widgets.casesByQueue.xAxis": "Active Orders by Queue",
+  "dashboard.widgets.casesByQueue.yAxis": "Number of Orders",
+  "dashboard.widgets.casesByQueue.noDataMessage": "Currently there are no orders info",
+  "dashboard.widgets.newChildWidget.title": "Child Widget title"
+}

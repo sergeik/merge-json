@@ -1,0 +1,21 @@
+{
+  "name": "merge-json",
+  "version": "0.0.1",
+  "description": "Merge JSON resources and configs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "merge",
+    "JSON"
+  ],
+  "author": "Sergey Kolomiets",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.2.1"
+  },
+  "devDependencies": {
+    "fs-extra": "^0.26.7"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "Admin",
+  "emptyArray": [2],
+  "components": [
+    {
+      "id": "Component1",
+      "prop1": "PROP1_VALUE"
+    },
+    {
+      "id": "Component2",
+      "prop2": "NEW_PROP2_VALUE"
+    }
+  ]
+}

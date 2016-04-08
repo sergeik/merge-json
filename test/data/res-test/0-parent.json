@@ -1,0 +1,14 @@
+{
+  "dashboard": {
+    "title": "Dashboard",
+    "widgets": {
+      "casesByQueue": {
+        "title": "Order by Queue",
+        "description": "Displays orders by queue",
+        "xAxis": "Active Orders by Queue",
+        "yAxis": "Number of Orders",
+        "noDataMessage": "Currently there are no orders info"
+      }
+    }
+  }
+}

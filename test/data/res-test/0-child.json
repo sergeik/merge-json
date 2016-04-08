@@ -1,0 +1,12 @@
+{
+  "dashboard": {
+    "widgets": {
+      "casesByQueue": {
+        "title": "Order by Queue Child"
+      },
+      "newChildWidget": {
+        "title": "Child Widget title"
+      }
+    }
+  }
+}
